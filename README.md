@@ -63,5 +63,4 @@ Technologies used in the project:
 *   Ultralytics YOLO API
 *   Video Processing
 
-<h2>Demo Video</h2>
-![Traffic Detection Demo](f2cfd2d2-2560-4ce2-a37d-2abf9b5b7c22.gif)
+![Uploading f2cfd2d2-2560-4ce2-a37d-2abf9b5b7c22.gif…]()
