@@ -64,4 +64,4 @@ Technologies used in the project:
 *   Video Processing
 
 <h2>Demo Video</h2>
-[Watch the demo video](https://github.com/Rishabh-tesla-arc/Traffic-Detection-Counting/blob/master/traffic_demo.mp4)
+![Traffic Detection Demo](f2cfd2d2-2560-4ce2-a37d-2abf9b5b7c22.gif)
