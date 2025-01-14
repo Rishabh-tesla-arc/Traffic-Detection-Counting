@@ -64,6 +64,8 @@ Technologies used in the project:
 *   Video Processing
 
 
-![f2cfd2d2-2560-4ce2-a37d-2abf9b5b7c22](https://github.com/user-attachments/assets/6f046913-41ba-4557-85bb-f4a0a3430dd1)
+https://github.com/user-attachments/assets/bfda53ca-32c7-4422-8c23-46a8e6815ed5
+
+
 
 
