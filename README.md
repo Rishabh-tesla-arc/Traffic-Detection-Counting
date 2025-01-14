@@ -67,10 +67,12 @@ Technologies used in the project:
 
 <h2>📝 Note</h2>
 
-Technologies used in the project:
+For improvements in this projet:
 
 *   Currently I am using Yolov8 nano, so the prediction accuracy is low
 *   Use the higher version of Yolov8 (instead of nano, go for medium or large) or higher version
+
+
 
 
 
