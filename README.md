@@ -63,7 +63,7 @@ Technologies used in the project:
 *   Ultralytics YOLO API
 *   Video Processing
 
-<h2>Demo Video</h2>
+
 ![f2cfd2d2-2560-4ce2-a37d-2abf9b5b7c22](https://github.com/user-attachments/assets/6f046913-41ba-4557-85bb-f4a0a3430dd1)
 
 
