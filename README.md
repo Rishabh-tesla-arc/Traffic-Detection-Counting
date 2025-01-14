@@ -63,9 +63,16 @@ Technologies used in the project:
 *   Ultralytics YOLO API
 *   Video Processing
 
+
+
 <h2>📝 Note</h2>
-* Currently I am using Yolov8 nano, so the prediction accuracy is low
-* Use the higher version of Yolov8 (instead of nano, go for medium or large) or higher version
+
+Technologies used in the project:
+
+*   Currently I am using Yolov8 nano, so the prediction accuracy is low
+*   Use the higher version of Yolov8 (instead of nano, go for medium or large) or higher version
+
+
 
 
 https://github.com/user-attachments/assets/bfda53ca-32c7-4422-8c23-46a8e6815ed5
